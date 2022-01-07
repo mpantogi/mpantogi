@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Christos Bantogias</h1>
-<h3 align="center">I live in Greece and work with Web Development.</h3>
 
 ## 🚀  About me
 
