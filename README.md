@@ -2,7 +2,7 @@
 
 ## 🚀  About me
 
-- 🔭 I’m currently learning React.js on Udemy
+- 🔭 I’m currently master React.js and learning React native on Udemy
 
 - 💬 Ask me about **JavaScript, React.js, Next.js and Node.js**
 
