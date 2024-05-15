@@ -2,8 +2,6 @@
 
 ## 🚀 About me
 
-- 🔭 I’m currently mastering Nuxt.js
-
 - 💬 Ask me about **JavaScript, React.js, Next.js, Vue.js, Nuxt.js Node.js**
 
 - 📫 How to reach me **xristos.bantogias@gmail.com**
