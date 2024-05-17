@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **JavaScript, web3, React.js, Next.js, Vue.js, Nuxt.js Node.js**
 
-- 📫 How to reach me **xristos.bantogias@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
