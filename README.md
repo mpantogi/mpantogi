@@ -2,16 +2,9 @@
 
 ## 🚀 About me
 
-- 💬 Ask me about **JavaScript, React.js, Next.js, Vue.js, Nuxt.js Node.js**
+- 💬 Ask me about **JavaScript, web3, React.js, Next.js, Vue.js, Nuxt.js Node.js**
 
 - 📫 How to reach me **xristos.bantogias@gmail.com**
-
-- ⚡ Fun fact **I'm crypto enthusiast**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/christos-bantogias-313740191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francianerpova" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
