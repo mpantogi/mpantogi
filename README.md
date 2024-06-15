@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christos Bantogias</h1>
+<h1 align="center">Hi 👋, I'm Christos</h1>
 
 ## 🚀 About me
 
