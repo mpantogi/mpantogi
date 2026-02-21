@@ -2,7 +2,7 @@
 
 ## 🚀 About me
 
-- 💬 Ask me about **Web3 developement, JavaScript, React.js, Next.js, Vue.js, Nuxt.js Node.js**
+- 💬 Ask me about **Web3 developement, JavaScript, React.js, Next.js, Vue.js, Nuxt.js, Node.js**
 
 <h3 align="left">Languages and Tools:</h3>
 
