@@ -84,11 +84,6 @@
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40"/>
   </a>
 
-  <!-- Pinia (stable PNG that always renders) -->
-  <a href="https://pinia.vuejs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/240px-Pinialogo.svg.png" width="40" height="40"/>
-  </a>
-
   <!-- Laravel (stable plain icon) -->
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
