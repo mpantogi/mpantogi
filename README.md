@@ -14,7 +14,7 @@
                                                
   **Languages**
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&v=1
   &logo=typescript&logoColor=white" alt="TypeScript"/>                          
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge
   &logo=javascript&logoColor=black" alt="JavaScript"/>                          
