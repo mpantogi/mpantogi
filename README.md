@@ -7,8 +7,7 @@
   contracts**                                                                   
   - 🌱  Currently deepening **AI engineering** (Anthropic SDK, RAG, agents)
   - 📍  Based in **Thessaloniki, Greece**                                                                  
-                                                                                
-  ---                                                                           
+                                                                                                                                                         
                                                                                 
   ### 🧰 Tech stack                                             
                                                
