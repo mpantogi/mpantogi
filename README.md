@@ -16,7 +16,7 @@
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&v=1
   &logo=typescript&logoColor=white" alt="TypeScript"/>                          
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&v=2
   &logo=javascript&logoColor=black" alt="JavaScript"/>                          
     <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&l
   ogo=solidity&logoColor=white" alt="Solidity"/>                                
